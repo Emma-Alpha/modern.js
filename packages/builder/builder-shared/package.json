@@ -129,7 +129,7 @@
     "cheerio": "1.0.0-rc.12",
     "cssnano": "6.0.0",
     "line-diff": "^2.0.1",
-    "postcss": "8.4.21",
+    "postcss": "8.4.31",
     "source-map": "^0.7.4",
     "webpack": "^5.88.1",
     "webpack-sources": "^3.2.3",
